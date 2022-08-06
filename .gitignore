@@ -1,3 +1,10 @@
+# terraform
+terraform.tfvars
+.terraform/**/*
+
+# sensitive
+svcac.json
+
 # Logs
 logs
 *.log
